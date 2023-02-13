@@ -1,0 +1,18 @@
+{
+  "$id": "project-new.json",
+  "type": "object",
+  "title": "project-new",
+  "description": "This is the body of a new Project",
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Name of the project"
+    },
+    "_links": {}
+  },
+  "required": [
+    "name"
+  ],
+  "writeOnly": true
+}
