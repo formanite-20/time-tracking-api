@@ -1,4 +1,4 @@
-# ⏳ Unnamed Time Tracking API ⌛️
+# ⏳ Time Tracking API ⌛️
 
 A project to track work on projects for clients.
 
